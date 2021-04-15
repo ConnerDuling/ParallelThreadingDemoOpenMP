@@ -4,6 +4,10 @@
 #include <omp.h>
 #include <math.h>
 
+/* Conner Duling
+*  CS350
+*/
+
 int main(int argc, char *argv[])
 {
     //Used to take input arguments to allow for varied thread usage
