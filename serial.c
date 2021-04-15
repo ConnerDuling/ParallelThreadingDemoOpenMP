@@ -5,7 +5,6 @@
 
 /* Conner Duling
 *  CS350
-*  HW6
 */
 
 int main(int argc, char *argv[])
